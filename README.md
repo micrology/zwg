@@ -12,4 +12,6 @@ To start this, first clone the files from Github into your web root.  Then acces
 
 To run the game, go to http://example.com/index.html
 
+You will need a password for the game; it is: firma
+
 n.gilbert@surrey.ac.uk
