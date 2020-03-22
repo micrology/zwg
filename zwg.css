@@ -1,0 +1,68 @@
+BODY {
+	background-color: white;
+	color: black;
+	margin: 0px;
+	font-family: arial, helvetica, sans-serif
+}
+	
+A { 
+	text-decoration: none;
+	color: #003300;
+	font-weight: bold;
+	font-size: small; 
+	font-family: arial, helvetica, sans-serif;
+}
+
+A:hover { 
+	text-decoration: underline;
+}
+.helptext {
+	color: #003399;
+	font-weight: normal;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+.graytext {
+	color: #666666;
+	font-weight: normal;
+	font-size: 12px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+.smalltext {
+	color: #333333;
+	font-weight: normal;
+	font-size: 10px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+.hdrtext {
+	color: #333333;
+	text-decoration: underline;
+	font-weight: normal;
+	font-size: 10px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+.actiontext {
+	color: #003399;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+.subaction {
+	color: #003399;
+	font-weight: normal;
+	font-size: 10px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+.faq {
+	color: #003399;
+	font-weight: normal;
+	font-size: 12px;
+	text-decoration: underline;
+	font-family: arial, helvetica, sans-serif;
+}
